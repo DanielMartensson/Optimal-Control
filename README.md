@@ -1,12 +1,5 @@
-# Matavemodels
+# Optimal Control
 
-Matavemodels is a collection of linear state space models who describe systems of:
+This is a collection of different dynamical system described as differential equations and transformed into state space representations.
+LQR, LQG and MPC has been used in this project. Feel free to download and study the examples and learn how to build the models of the physical systems. 
 
-* Mehanical
-* Fluidmechanical
-* Electrical
-* Thermodynamical
-
-Edit: 2018-08-16 Will be edited soon.
-
-![alt text](https://github.com/DanielMartensson/matavemodels/blob/master/Markering_086.png)
