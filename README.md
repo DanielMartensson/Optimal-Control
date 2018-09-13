@@ -5,7 +5,7 @@ LQR, LQG and MPC has been used in this project. Feel free to download and study 
 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Suspension.png)
 
-![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Motor Speed.png)
+![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Motor%20Speed.png)
 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Inverted%20Pendulum.png)
 
