@@ -18,5 +18,3 @@ LQR, LQG and MPC has been used in this project. Feel free to download and study 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Ball%20And%20Beam.png)
 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Aircraft%20Pitch.png)
-
-![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Aircraft%20Pitch.png)
