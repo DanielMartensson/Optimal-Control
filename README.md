@@ -18,3 +18,14 @@ LQR, LQG and MPC has been used in this project. Feel free to download and study 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Ball%20And%20Beam.png)
 
 ![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Aircraft%20Pitch.png)
+
+# Working Example - Motor Posotion
+This is an example how every example is structured. First model, then code, then simulation.
+Model:
+![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Markering_09.png)
+
+Code:
+![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Markering_10.png)
+
+Simulation:
+![alt text](https://github.com/DanielMartensson/Optimal-Control/blob/master/Pictures/Markering_08.png)
